@@ -1,3 +1,6 @@
+.nav-link:hover{
+    color: #fd7e14;
+}
 .btn-orange {
     background-color: #fd7e14;
     font-weight: 700;
@@ -6,3 +9,29 @@
 .btn-orange:hover{
 background-color: #fca256;
 }
+
+.title-destaque{
+    color: #fd7e14 ;
+    text-align: center;
+}
+
+.card-products-home{
+    background-color: #212529;
+    padding: 2em 0px 2em 0px;
+}
+
+.cards-info{
+    background-color: #f8f8f8;
+}
+
+.icon-info{
+    margin-left: 1rem;
+}
+
+.card-info{
+    padding-top: 1rem;
+    text-align: center;
+    border: 1px solid;
+    margin: 1rem;
+}
+
